@@ -3,15 +3,15 @@
 {
   "pricerId": "72514",
   "rank": "67089",
-  "programCode": "ARC", Program
+  "programCode": "ARC",
   "programText": "Absolute Reserve Car Plus",
-  "coverage": "Exclusionary", Coverage
+  "coverage": "Exclusionary",
   "classRoom": "2",
-  "term": "60/100", Term/Miles	
+  "term": "60/100",
   "planMonths": "60",
   "planMiles": "100000",
   "price": "931.0000",
-  "awd": "",All Wheel Drive(AWD)?	
+  "awd": "",
   "turbo": "",
   "diesel": "",
   "hv": "",
@@ -19,7 +19,7 @@
   "sg": "0.0000",
   "wr": "",
   "dd": "100.0000",
-  "deductible_0": "", Deductable
+  "deductible_0": "",
   "deductible_50": "",
   "deductible_100": "0.0000",
   "deductible_250": "-85.0000"
